@@ -4,7 +4,7 @@ const screenshots = [
   {
     title: 'Browse Restaurants',
     image:
-      'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=300&h=600&fit=crop&crop=center',
+      'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=300&h=600&fit=crop&crop=center',
   },
   {
     title: 'Menu Selection',

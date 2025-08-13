@@ -26,7 +26,7 @@ const blogPosts = [
     excerpt:
       'Get your favorite meals delivered in under 15 minutes with our new express delivery service.',
     image:
-      'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=250&fit=crop&crop=center',
+      'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=250&fit=crop&crop=center',
     category: 'Updates',
     readTime: '3 min read',
     date: 'Dec 10, 2024',

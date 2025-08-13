@@ -14,7 +14,7 @@ const features = [
     description:
       'Get your food delivered hot and fresh. Track your order in real-time from kitchen to your doorstep.',
     image:
-      'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop&crop=center',
+      'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop&crop=center',
     icon: '🚀',
   },
   {
