@@ -43,7 +43,7 @@ const restaurants = [
     rating: 4.5,
     deliveryTime: '20-30 min',
     image:
-      'https://images.unsplash.com/photo-1565299585323-38174c2bebe4?w=400&h=300&fit=crop&crop=center',
+      'https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?w=400&auto=format&fit=crop&q=center',
     featured: true,
   },
   {
